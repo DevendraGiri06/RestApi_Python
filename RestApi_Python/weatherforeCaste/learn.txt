@@ -1,0 +1,9 @@
+go to this site
+
+https://openweathermap.org/api
+
+sign in than goto, -->  5 Day / 3 Hour Forecast
+
+
+-- main.py write code , you can find it -
+city,time, temperature,condition

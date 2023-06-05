@@ -1,0 +1,11 @@
+--Maybe it's been a long time since you saw this code.
+--So you guys update the from date and end date of this URL to present date or 1 day back date
+
+https://newsapi.org/v2/everything?q=apple&from=2023-05-12&to=2023-06-1&sortBy=popularity&apiKey=ba51b77e3dd443e18a3836600c6b8ecd
+
+
+--if you want to read the request Api libra than goto this documention--
+
+Requests is an HTTP library, written in Python, for human beings. Basic GET usage:
+
+https://docs.python-requests.org/en/latest/
